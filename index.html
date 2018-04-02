@@ -3,6 +3,15 @@
 
 <!--Head Start-->
   <head>
+    <!--This script transfers anyone viewing the website on http to the https version-->
+	<script  type="text/javascript">
+		var host = "jondevops.com"; 
+		if ((host == window.location.host) && (window.location.protocol != "https:"))
+			window.location.protocol = "https";
+	</script>
+    <!--link for cloudflare-->
+<link rel="canonical" href="https://jondevops.com"/>
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
