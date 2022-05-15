@@ -7,7 +7,7 @@ Jonathan Jackson's personal site. Feel free to clone.
 3. rarecoins.shop
 4. codingbookclub.io
 
-Solidity blockchain dev dapps
+Solidity/Blockchain Dapps
 
 5. boredapecatclub.com
 6. boredapekittenclub.com
