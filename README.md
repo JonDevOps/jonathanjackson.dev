@@ -19,20 +19,19 @@ Python
 9. buildpythonprojects.com
 10. pythonbookclub.com
 11. pythonstudygroups.com
-12. pythoninternship.com
-13. pythoncertifications.org
-14. pythoninternship.org
-15. pythonmentorship.com
-16. pythonapprenticeship.com
-17. freepythonbootcamp.com
+12. pythoncertifications.org
+13. pythoninternship.com
+14. pythonmentorship.com
+15. pythonapprenticeship.com
+16. freepythonbootcamp.com
 
 JavaScript
 
-18. javascriptinternship.com
-19. buildjavascriptptojects.com
-20. javascriptstudygroups.com
-21. javascriptbookclub.com
-22. javascriptapprenticeship.com
-23. javascriptcertifications.org
-24. javascriptmentorship.com
-25. freejavascriptbootcamp.com
+17. buildjavascriptptojects.com
+18. javascriptbookclub.com
+19. javascriptstudygroups.com
+20. javascriptcertifications.org
+21. javascriptinternship.com
+22. javascriptmentorship.com
+23. javascriptapprenticeship.com
+24. freejavascriptbootcamp.com
