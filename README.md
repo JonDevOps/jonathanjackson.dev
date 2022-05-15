@@ -8,12 +8,14 @@ Jonathan Jackson's personal site. Feel free to clone.
 4. codingbookclub.io
 
 Solidity blockchain dev dapps
+
 5. boredapecatclub.com
 6. boredapekittenclub.com
 7. boredapepuppyclub.com
 8. boredapedogclub.com
 
 Python
+
 9. buildpythonprojects.com
 10. pythonbookclub.com
 11. pythonstudygroups.com
@@ -25,6 +27,7 @@ Python
 17. freepythonbootcamp.com
 
 JavaScript
+
 18. javascriptinternship.com
 19. buildjavascriptptojects.com
 20. javascriptstudygroups.com
