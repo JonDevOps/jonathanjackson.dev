@@ -27,7 +27,7 @@ Python
 
 JavaScript
 
-17. buildjavascriptptojects.com
+17. buildjavascriptprojects.com
 18. javascriptbookclub.com
 19. javascriptstudygroups.com
 20. javascriptcertifications.org
