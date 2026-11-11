@@ -35,7 +35,8 @@ html, body {
     margin-top: 10vh;
     max-width: 180px;
     margin-bottom: 30px;
-    border-radius: 80px;
+    border-radius: 50%;
+    object-fit: cover;
 
   }
 
@@ -54,4 +55,22 @@ html, body {
   .dev-links a:active {
     color: #6a9179;
     text-shadow: 1px 1px 1px #efefef;
+  }
+  .tagline, .bio, .projects li, .contact {
+    color: #efefef;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+  }
+  .tagline { font-size: 30px; margin: 20px 0 16px; line-height: 1.1; }
+  .bio { font-size: 22px; max-width: 640px; margin: 0 auto 30px; padding: 0 16px; }
+  .projects { margin: 40px auto 20px; max-width: 640px; padding: 0 16px; }
+  .projects li { font-size: 22px; margin-bottom: 6px; }
+  .projects a, .contact a { color: #efefef; text-decoration: underline; }
+  .projects a:hover, .contact a:hover { color: #6a9179; }
+  .contact { font-size: 22px; padding: 0 16px 40px; overflow-wrap: anywhere; }
+
+  @media (max-width: 576px) {
+    h1 { font-size: 48px !important; }
+    h2 { font-size: 36px !important; }
+    .dev-links { font-size: 44px; }
   }
